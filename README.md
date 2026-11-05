@@ -1,5 +1,9 @@
 # AI Marketing Factory
 
+Michelle Gomez
+
+I want my factory to create consistent, on-brand marketing content for Rya Rightsizing.
+
 A repeatable marketing operating system you can point at any client. Shared context goes in, standardized stations turn it into assets, a human approves the work, and the results make the next cycle better.
 
 **The process is the asset. Tools plug into slots.**
