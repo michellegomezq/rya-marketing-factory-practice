@@ -97,7 +97,7 @@ If either optional input is not provided, write "Not provided" in the report hea
 
 ## 3. Output template
 
-**Save path:** `outputs/<client-slug>/YYYY-MM-DD-insights-<period>.md`
+**Save path:** `outputs/<client-slug>/reports/YYYY-MM-DD-insights-<period>.md`
 
 ```markdown
 # Insights summary: <Client name> · <period>
