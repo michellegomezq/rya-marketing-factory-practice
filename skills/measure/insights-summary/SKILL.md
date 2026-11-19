@@ -19,7 +19,7 @@ description: "Factory station 11 (measure line). Reads the approved performance 
 
 | Input | Where to find it | Condition |
 |---|---|---|
-| Approved performance report | `outputs/<client-slug>/YYYY-MM-DD-performance-report-<period>.md` | Status must be `APPROVED`. If it is `DRAFT`, stop and say so. |
+| Approved performance report | `outputs/<client-slug>/reports/YYYY-MM-DD-report-<period>.md` | Status must be `APPROVED`. If it is `DRAFT`, stop and say so. |
 | Marketing plan | `context/marketing-plan.md` | Source of objectives, KPIs, targets and reporting period. This is the yardstick for "worked" and "did not work." |
 | Guardrails | `context/guardrails.md` | Always read before analysing. |
 
