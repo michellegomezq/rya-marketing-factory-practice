@@ -16,8 +16,8 @@ Check prices on the vendor's site when you fill this in; they change often. Reco
 | video-short-form | Scripting and video production | | | | |
 | landing-page | Page copy and page building | | | | |
 | performance-report | Data analysis and reporting | | | | |
-| insights-summary | Synthesis | | | | |
-| next-cycle-brief | Planning | | | | |
+| insights-summary | Synthesis | Claude Free | | | Claude Free |
+| next-cycle-brief | Planning | Claude Free | | | Claude Free |
 | *Whole factory* | Agency HQ and workshop | Claude (free), GitHub (free) | | | |
 
 ## Monthly tool budget
