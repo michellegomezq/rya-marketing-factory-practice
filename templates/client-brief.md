@@ -1,6 +1,6 @@
 # Client brief
 
-Save as `outputs/<client-slug>/YYYY-MM-DD-brief-<description>.md`. Nothing goes into production without an approved brief.
+Save as `outputs/<client-slug>/reports/YYYY-MM-DD-brief-<period>.md`. Nothing goes into production without an approved brief.
 
 **Client:**
 **Brief title:**
