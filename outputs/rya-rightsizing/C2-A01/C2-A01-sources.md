@@ -1,7 +1,7 @@
 Station: email (sources)
 Date: 2026-11-23
 Asset ID: C2-A01
-Status: DRAFT — FOR HUMAN REVIEW
+Status: In review — QA PASS (Camila Chocontá); team handoff pending
 
 **Approval note:** The email is **not approved by Lisa or the client**. "Supported by project context" means a statement matches the project's context files. It does not mean the client has approved it. This is an academic classroom draft (MARK 3890). Nothing will be sent or published.
 
@@ -105,10 +105,35 @@ These must be settled before the email could be used with real recipients.
 - **Image or quote disclosure:** none needed. No AI images, quotes or personas.
 
 ## Tools and prompts used
-- **Writing:** Claude. The tool register's email row is blank, so the entry needs confirmation. **Model used: Not recorded.**
+- **Writing:** Claude (drafting). The email row in the Tool Register has been updated in both personal and team repositories. **Model used: Not recorded.**
 - **Sending:** none. Nothing will be sent.
 - **Web fetch** of the contact page, used for contact verification only.
 - **Lisa's four reference files** (Email-toolkit_real_estate_agents.docx, Rya_Rightsizing-Realtor_Referral_Sheet.pdf, Rya_Rightsizing_1-pager.pdf, Rya_Rightsizing-Client_Guide.pdf) were read for comparison. The text of the .docx was extracted. The PDFs were read as supplied.
 
 ## Calendar status
-Drafting. Teammate QA to be requested after the files are saved and self-checked.
+In review — QA PASS (Camila Chocontá); team repository handoff pending.
+
+## Production prompts used (summary)
+
+- Pre-draft check: Asked Claude to inspect C2-A01, the email SKILL.md and context files before writing.
+- Production: Asked Claude to draft the C2-A01 partner email with three subject lines, preheader, exact calendar CTA and sources record.
+- Refinements: Asked Claude to verify public contact details, document assumptions, and create plain-text and HTML versions.
+- Client material comparison: Asked Claude to compare the draft against Lisa's four original marketing documents and avoid duplicating her toolkit email.
+- Final documentation: Asked Claude to update the sources and strategic comparison without rewriting the email.
+
+These are summaries of the prompts. Full wording is available in the C2-A01 Claude conversation.
+
+## Peer QA record
+
+Reviewer: Camila Chocontá
+Result: QA PASS for classroom delivery
+Feedback:
+- Update the file status.
+- Document Claude prompts and model, if known.
+- Complete the email row in the Tool Register.
+
+Tool Register: Email row updated in personal and team repositories.
+Claude model: Not recorded.
+Email content: No changes requested.
+Mailing address: Pending confirmation before real-world use.
+Team repository handoff: Pending.
