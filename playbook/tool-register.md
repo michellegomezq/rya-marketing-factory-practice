@@ -11,7 +11,7 @@ Check prices on the vendor's site when you fill this in; they change often. Reco
 | content-calendar | Planning and scheduling | | | | |
 | social | Social copy and scheduling | | | | |
 | blog-seo-geo | Search research and long-form writing | | | | |
-| email | Email writing and sending | | | | |
+| email | Email writing and sending | Claude Free (drafting) | Not checked yet | If higher usage limits are needed | Claude (drafting only; no sending tool) |
 | ad-creative | Ad copy and image generation | | | | |
 | video-short-form | Scripting and video production | | | | |
 | landing-page | Page copy and page building | | | | |
