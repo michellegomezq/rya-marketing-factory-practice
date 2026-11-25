@@ -2,7 +2,7 @@ Station: email
 Date: 2026-11-23
 Asset ID: C2-A01
 Context used: content-calendar.csv (row C2-A01), marketing-plan.md, personas.md, positioning.md, offer.md, voice-and-tone.md, guardrails.md, brand-book.md (name, contact and colour cross-check), skills/content/email/SKILL.md, templates/client-brief.md; contact page at ryarightsizing.com/contact
-Status: DRAFT — FOR HUMAN REVIEW
+Status: In review — QA PASS (Camila Chocontá); team handoff pending
 
 # Email: Partner introduction for real estate professionals
 
@@ -139,4 +139,4 @@ Not applicable. The one-pager is C2-A02.
 - **AI use:** AI-assisted (Claude drafted the email)
 - **AI disclosure:** Drafted with AI assistance and reviewed by the marketing team. (Suggested for Lisa's handoff, after team review.)
 - **Output link:** outputs/rya-rightsizing/C2-A01/
-- **Status:** Drafting (unchanged). Teammate QA to be requested after saving and self-checking the files.
+- **Status:** In review — QA PASS (Camila Chocontá); team repository handoff pending.
